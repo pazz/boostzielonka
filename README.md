@@ -5,9 +5,9 @@ the graph library from [boost.org][boost] and is the only dependency to run this
 
 You can execute the evaluation of a demo game with
 
-"""
+```sh
 ./solve.py examples/game1.dot
-"""
+```
 
 See also the output of `./solve -h` for more formating info.
 
